@@ -1,0 +1,10 @@
+# macOS
+.DS_Store
+
+# CV — personal document, do not publish
+cv-pelayo-urzaiz.md
+cv-pelayo-urzaiz.docx
+cv-pelayo-urzaiz.pdf
+*.cv.md
+*.cv.docx
+*.cv.pdf
